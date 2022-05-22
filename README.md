@@ -22,3 +22,6 @@ conda install -c conda-forge jupyterlab
 ```
 
 ### Clone from github
+1. Go to the repository https://github.com/dwromero/dl_tutorial
+2. Download the code either via git or as a zip file.
+3. Extract in your computer
