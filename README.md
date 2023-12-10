@@ -1,27 +1,13 @@
 ## Practical Session - Recognizing Numbers with DL -
 
-### Setting up Environment and Packages 
+### Installation
 
-1. Intall Anaconda (https://www.anaconda.com/products/distribution).
-2. Create a new environment with python 3.9:
-```
-conda create --name dl_tutorial python=3.9
-```
-3. Enter the new environment:
-```
-conda activate dl_tutorial
-```
-3. Install the required packages:
-```
-# PyTorch (ask me for this precise line. It depends on your computer.
-conda install pytorch torchvision torchaudio cudatoolkit=11.3 -c pytorch 
-# Matplotlib -- used for plotting --
-conda install -c conda-forge matplotlib
-# Jupyter
-conda install -c conda-forge jupyterlab
-```
+For this exercises we will use Google Colab. As a result, we won't need to install anything locally.
 
-### Clone from github
-1. Go to the repository https://github.com/dwromero/dl_tutorial
-2. Download the code either via git or as a zip file.
-3. Extract in your computer
+1. Go to https://colab.research.google.com/
+2. Once here, go to the GitHub tab and pass the URL of this repository, i.e., https://github.com/dwromero/dl_tutorial/
+3. Here, you should be able to see a file called `DL_tutorial.ipynb`. Open it, and you are ready to go.
+
+
+### Checking everything
+Please check that everything is working properly before continuing. You should be able to run the first code cell of the Jupyter Notebook without any problems. If you have any issues, please let us know.
